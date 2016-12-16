@@ -1,2 +1,1 @@
-# mnist
-First machine learning project: classification of handwritten digits.
+# Udacity Deep Learning Assigments
