@@ -16,4 +16,7 @@ We study the effects of various normalization schemes, e.g. L2, dropout, max nor
 We introduce convolutions into our neural networks, along with pooling. We develop a neural network with the so-called "Inception module."
 
 ## 5_word2vec
-We develop a vector representations of word using the Continous i
+We develop a vector representation of English words using the CBOW model, and apply t-SNE to this vector embedding to visualize the relation between different words.
+
+## 6_lstm
+We train a sequence-to-sequence RNN with LSTM encoder and decoder cells capable of accepting sequences of variable lengths and returning them in reverse order.
