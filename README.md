@@ -20,4 +20,4 @@ We train a neural network on a corpus of English text from Wikipedia articles to
 We apply t-SNE to this vector embedding to visualize the relation between different words.
 
 ## 6_lstm
-We train a sequence-to-sequence RNN with LSTM encoder and decoder cells capable of accepting sequences of variable lengths and returning them in reverse order.
+We train a dynamic sequence-to-sequence RNN with LSTM encoder and decoder cells capable of accepting sequences of variable lengths and returning them in reverse order.
