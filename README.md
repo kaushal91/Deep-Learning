@@ -17,7 +17,7 @@ We introduce convolutions into our neural networks, along with pooling. We devel
 
 ## 5_word2vec
 We train a neural network on a corpus of English text from Wikipedia articles to develop a vector representation of words using the CBOW model.
-We apply t-SNE to this vector embedding to visualize the relation between different words.
+We apply t-SNE to this vector embedding to visualize the relationships between different words.
 
 ## 6_lstm
 We train a dynamic sequence-to-sequence RNN with LSTM encoder and decoder cells capable of accepting sequences of variable lengths and returning them in reverse order.
