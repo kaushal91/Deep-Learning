@@ -10,7 +10,7 @@ Most of the work focuses on understanding the dataset and transforming it into a
 We train a fully connected neural network with one hidden layer using stochastic gradient descent.
 
 ## 3_regularization
-We study the effects of various normalization schemes, e.g. L2, dropout, max norm, and decaing learning rates. We implement them in a neural network with two fully connected hidden layers.
+We study the effects of various normalization schemes, e.g. L2, dropout, max norm, and decaying learning rates. We implement them in a neural network with two fully connected hidden layers.
 
 ## 4_convolutions
 We introduce convolutions into our neural networks, along with pooling. We develop a neural network with the so-called "Inception module."
